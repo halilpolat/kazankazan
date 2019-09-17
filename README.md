@@ -1,2 +1,1 @@
-# kazankazan
-Kazan Kazan Takvimi
+<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FIstanbul&amp;src=N202cnN0cm04OWtqMWpuNDltaXYxNWVoZ2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23C0CA33&amp;title=Kazan%20Kazan%20Yar%C4%B1%C5%9Fma%20Takvimi&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;showCalendars=0&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
